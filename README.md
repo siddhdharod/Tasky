@@ -1,68 +1,73 @@
-# Tasky – To-Do List Web App
+# ✨ Tasky – To-Do List Web App
 
-Tasky is a modern and responsive To-Do List web application developed as part of my Web Development Internship. It allows users to add, complete, delete, and manage daily tasks through a clean and interactive interface with a soft purple and cartoon-inspired design.
+<p align="center">
+  <img src="assets/tasky-preview.png" alt="Tasky To-Do List Preview" width="900">
+</p>
 
-## Features
-
-- Add new tasks
-- Mark tasks as completed
-- Delete tasks
-- Clear completed tasks
-- Real-time task statistics
-- Live clock and date
-- Tasks saved using Local Storage
-- Enter key support for adding tasks
-- Responsive design for mobile and desktop
-- Soft purple and lavender theme
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Flexbox
-- CSS Grid
-- Media Queries
-- Local Storage
-- Font Awesome
-- Google Fonts
-
-## Project Structure
-
-Tasky/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
-## Learning Outcomes
-
-This project helped me gain practical experience in:
-
-- HTML page structure
-- CSS styling and responsive design
-- Flexbox and CSS Grid
-- JavaScript DOM manipulation
-- Event handling
-- Local Storage
-- Dynamic UI updates
-- User-friendly interface design
-
-## How to Run
-
-1. Clone the repository.
-2. Open the project folder in VS Code.
-3. Open `index.html` using Live Server.
-4. Start adding and managing your tasks.
-
-## Project Type
-
-Web Development Internship Project
-
-## Author
-
-Siddh Nirav Dharod
+<p align="center">
+  A modern, responsive and interactive To-Do List Web Application built using HTML, CSS and Vanilla JavaScript.
+</p>
 
 ---
 
-If you find this project useful, feel free to ⭐ the repository.
+## 📌 About The Project
+
+**Tasky** is a responsive To-Do List web application developed as part of my **Web Development Internship**.
+
+The application provides users with a simple and interactive way to organize their daily tasks. It features a soft purple and lavender theme with a playful cartoon-inspired design, making task management simple and engaging.
+
+---
+
+## ✨ Features
+
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 🧹 Clear completed tasks
+- 📊 Real-time task statistics
+- ⏰ Live clock and date
+- 💾 Tasks saved using Local Storage
+- ⌨️ Press Enter to add tasks
+- 📱 Fully responsive design
+- 🎨 Soft purple and lavender theme
+- 🧸 Cartoon-inspired UI elements
+- ⚡ Instant updates without page reload
+
+---
+
+## 🖥️ Project Preview
+
+### Desktop View
+
+<p align="center">
+  <img src="assets/tasky-preview.png" alt="Tasky Desktop Preview" width="850">
+</p>
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Website structure |
+| CSS3 | Styling and responsive design |
+| JavaScript | Application functionality |
+| Flexbox | Layout |
+| CSS Grid | Responsive sections |
+| Local Storage | Persistent task data |
+| Font Awesome | Icons |
+| Google Fonts | Typography |
+
+---
+
+## 📂 Project Structure
+
+```text
+Tasky/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   └── tasky-preview.png
+└── README.md
