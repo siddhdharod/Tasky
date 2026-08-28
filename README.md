@@ -1,7 +1,7 @@
 # ✨ Tasky – To-Do List Web App
 
 <p align="center">
-  <img src="assets/tasky-preview.png" alt="Tasky To-Do List Preview" width="900">
+  <img src="Screenshot 2026-08-28 162651.png" alt="Tasky To-Do List Preview" width="900">
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ The application provides users with a simple and interactive way to organize the
 ### Desktop View
 
 <p align="center">
-  <img src="assets/tasky-preview.png" alt="Tasky Desktop Preview" width="850">
+  <img src="Screenshot 2026-08-28 162651.png" alt="Tasky Desktop Preview" width="850">
 </p>
 
 ---
