@@ -68,6 +68,6 @@ Tasky/
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   └── tasky-preview.png
+├── tasky-preview.png
+├── logo.png
 └── README.md
