@@ -1,61 +1,68 @@
-✨ Tasky – To-Do List Web App
+# Tasky – To-Do List Web App
 
-A modern and responsive To-Do List Web Application developed as part of my Web Development Internship. Tasky provides a simple and interactive way to manage daily tasks with a soft purple, lavender, and cartoon-inspired interface.
+Tasky is a modern and responsive To-Do List web application developed as part of my Web Development Internship. It allows users to add, complete, delete, and manage daily tasks through a clean and interactive interface with a soft purple and cartoon-inspired design.
 
-🚀 Features
-➕ Add new tasks
-✅ Mark tasks as completed
-🗑️ Delete tasks
-🧹 Clear completed tasks
-📊 Real-time task statistics
-⏰ Live clock and date
-💾 Persistent tasks using Local Storage
-⌨️ Add tasks using the Enter key
-📱 Fully responsive design
-🎨 Soft purple and lavender UI
-🧸 Cartoon-inspired visual elements
-🛠️ Technologies Used
-HTML5 – Page structure
-CSS3 – Styling and responsive design
-Vanilla JavaScript – Functionality and DOM manipulation
-Local Storage – Saving tasks in the browser
-Font Awesome – Icons
-Google Fonts – Typography
-📂 Project Structure
+## Features
+
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Clear completed tasks
+- Real-time task statistics
+- Live clock and date
+- Tasks saved using Local Storage
+- Enter key support for adding tasks
+- Responsive design for mobile and desktop
+- Soft purple and lavender theme
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Flexbox
+- CSS Grid
+- Media Queries
+- Local Storage
+- Font Awesome
+- Google Fonts
+
+## Project Structure
+
 Tasky/
-│
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-🎯 Learning Outcomes
 
-Through this internship project, I gained practical experience in:
+## Learning Outcomes
 
-Creating webpages using HTML5
-Designing responsive layouts with CSS3
-Working with Flexbox and CSS Grid
-Handling user interactions using JavaScript
-Performing DOM manipulation
-Using browser Local Storage
-Implementing real-time UI updates
-Creating a responsive and user-friendly interface
-💻 How to Run
-Clone the repository:
-git clone https://github.com/your-username/your-repository-name.git
-Open the project folder in VS Code.
-Open index.html using Live Server.
-Start adding and managing your tasks.
-📸 Project Preview
+This project helped me gain practical experience in:
 
-The application features a clean dashboard with task management, task statistics, a live clock, and a playful productivity-focused design.
+- HTML page structure
+- CSS styling and responsive design
+- Flexbox and CSS Grid
+- JavaScript DOM manipulation
+- Event handling
+- Local Storage
+- Dynamic UI updates
+- User-friendly interface design
 
-📌 Project Type
+## How to Run
+
+1. Clone the repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` using Live Server.
+4. Start adding and managing your tasks.
+
+## Project Type
 
 Web Development Internship Project
 
-👨‍💻 Developed By
+## Author
 
 Siddh Nirav Dharod
 
-⭐ If you like this project, consider giving the repository a star! 💜
+---
+
+If you find this project useful, feel free to ⭐ the repository.
