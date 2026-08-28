@@ -1,6 +1,6 @@
 # ✨ Tasky – To-Do List Web App
 
-<p>
+<p align="left">
   <img src="logo.png" alt="Tasky To-Do List Preview" width="900">
 </p>
 
